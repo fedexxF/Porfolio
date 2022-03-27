@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background:lightgrey;
+    background: lightgray;
 }
 
 :root{
@@ -55,5 +55,5 @@ footer {
 }
 
 .home{
-    background-image: url(./imgs/GitHub-Logo.png);
+    background-image: url(./imgs/Fondos/Fondo\ principal.jpg);
 }
