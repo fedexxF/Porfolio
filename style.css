@@ -49,9 +49,9 @@ body{
 }
 footer {
     background: black;
-    padding: 20px 0;
+    padding: 40px 0;
     color: var(--main-color);
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 .home{
